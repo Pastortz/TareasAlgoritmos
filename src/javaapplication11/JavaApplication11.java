@@ -40,6 +40,8 @@ public class JavaApplication11 {
         System.out.println("Descuento aplicado: Q" + descuento);
         System.out.println("Total a pagar: Q" + total);
     }
+    //Mi primer commit desde el laboratorio virtual
+    //Hola inge   😒
     }
       
    
